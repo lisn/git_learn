@@ -1,6 +1,11 @@
 git learn start
+<<<<<<< Updated upstream
 creat a branch
 git learn start
 main branch here
 creat a branch
 ---------------------------
+=======
+creat a branch
+1234567890-
+>>>>>>> Stashed changes
